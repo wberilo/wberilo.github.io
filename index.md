@@ -2,9 +2,6 @@
 <html>
   <head>
     <title>Berilo Wanderley</title>
-    <style>
-
-    </style>
   </head>
   <body>
       <h1>Berilo Wanderley</h1>
