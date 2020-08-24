@@ -1,0 +1,41 @@
+
+      body{
+        background-color: #12111F;
+        color: #adfff1;
+        font-family: 'Lato', monospace;
+      }
+      .title{
+        text-align: center;
+        font-family: 'Alata', Monospace, 'Arial Narrow Bold', sans-serif;
+      }
+      .descricao{
+          float: left;
+      }
+      div{
+          padding:35px;
+          margin: 35px;
+      }
+      div ul .imp{
+          font-style: italic;
+          font-weight: 600;
+      }
+      img{
+        padding:30px;
+        background-color: aliceblue;
+        border: 10px solid #adfff1 ;
+        border-radius: 20%;
+        display: block;
+        float: left;
+        margin-right: 30px;
+      }
+      .info{
+          width: 70%;
+          margin: auto;
+      }
+      .solo{
+          clear: both;
+      }
+      ul{
+        align-self: center;
+        justify-content: center;
+      }
